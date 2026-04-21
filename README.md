@@ -2,7 +2,6 @@
 
 **Authors:** Shijie He, Yuang Fu, Zejun Zhou
 **Institution:** University of California, Los Angeles (UCLA)
-**Course:** Econ 421
 
 ## Overview
 
