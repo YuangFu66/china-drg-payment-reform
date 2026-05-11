@@ -30,13 +30,6 @@ Key data-construction choices:
 
 ## Main Findings
 
-The baseline regression (province and year fixed effects, no controls) yields:
-
-| Outcome               | Coefficient | Std. Error | p-value | R² | N |
-|-----------------------|-------------|------------|---------|------|-----|
-| Log avg inpatient cost  | −0.0274     | 0.0168     | 0.0498  | 0.9842 | 186 |
-| Log inpatient discharges | +0.0455     | 0.0239     | 0.0566  | 0.9969 | 186 |
-| Log total expenditure   | +0.0181     | 0.0211     | 0.3920  | 0.9958 | 186 |
 
 Greater DRG exposure is associated with lower average inpatient cost per case and higher inpatient discharge volume. These two effects work in opposite directions, so the net effect on total inpatient expenditure is small and statistically insignificant. In other words, DRG reform improves cost efficiency on a per-case basis, but hospitals appear to offset those savings by treating more patients, limiting the reform's ability to reduce overall healthcare spending in the short run.
 
